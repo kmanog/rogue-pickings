@@ -1,0 +1,104 @@
+Rogue Pickings
+
+
+Rogue Pickings (TITLE)
+Font: Montserrat, Bold
+Size: 30px
+Line height: 23px
+Rogue Color: #77a466
+Pickings Color: #000000
+
+NAV:
+Font: Montserrat, Bold
+Size: 14px
+Line Height: 23px
+Color: #77a466
+
+Image Border (Top and Bottom) Color: #77a466
+
+Welcome to ... (HEADER) 
+Font: Monstserrat, Bold
+Size: 18px
+Line Height: 23px
+Color: #77a466
+Text-decoration: capitalize
+
+HEADER paragraph:
+font: Monserrat, Regular
+Size: 16px
+Line height: 25px
+
+Bottom Section:
+Border:
+weight: 1px
+color: #dedbdc
+
+Today's Special:
+Font: Montserrat, Bold
+Size: 12px
+Lineheight: 25px
+Color: #000000
+Text-decoration: capitalize
+
+Flaming Hummus: 
+Font: Montserrat, Regular
+Size: 16px
+Line Height: 18px
+Color: #77a466
+
+Border side:
+weight: 1px
+color: #dedbdc
+
+Our Awesome Reviews:
+Font: Montserrat, Bold
+Size: 12px
+Line Height: 25px
+color:#000000
+
+Review:
+Font: Montserrat, Regular
+Size: 16px
+line height: 21px
+color: #000000
+text-align: center
+
+Border side:
+weight: 1px
+color: #dedbcd
+
+Contact Us:
+Font: Montserrat, Bold
+Size: 12 px
+Line Height: 25px
+color: #000000
+text-decoration: capitalize
+
+1001:
+Font: Montserrat, Regular
+Size: 16px
+Lineheight: 24px
+color: #000000
+text-align: center
+
+border top:
+weight: 1px
+color: #dedbcd
+
+Powered by lots of ....
+font: Montserrat, bold
+size: 16px
+text-decoration: capitalize
+lineheight: 23px
+
+Fresh:
+font: galada regular
+size: 16px
+lineheight: 23px
+color: #77a466
+
+BOX:
+
+Third-width:
+padding: 25px
+

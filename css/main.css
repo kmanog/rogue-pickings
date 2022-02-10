@@ -1,0 +1,141 @@
+/****** BASE STYLES ******/
+body {
+color: #000000;
+font-family: 'Montserrat', sans-serif;
+}
+
+/****** GRID ******/
+
+.full-width {
+margin: 0 auto;
+overflow: auto;
+width: 1200px;
+}
+
+.half-width {
+float: left;
+width: 600px;
+}
+
+.third-width {
+float: left;
+width: 400px;
+/*height: 210px;*/
+}
+
+/****** HEADER ******/
+header {
+  padding: 10px 0;
+}
+header h1 {
+font-family: 'Montserrat', sans-serif;
+size: 30px;
+line-height: 23px;
+text-transform: uppercase;
+}
+
+header h1 span {
+  color: #77a466;
+}
+
+nav {
+  float: right;
+}
+
+nav ul li {
+  display: inline-block;
+  font-size: 14px;
+  line-height: 23px;
+  color: #77a466;
+  text-transform: uppercase;
+  font-weight: bold;
+  padding: 0 6px;
+}
+
+/****** BODY ******/
+img {
+  margin: auto;
+  border-top: 5px solid #77a466;
+  border-bottom: 5px solid #77a466;
+}
+
+#top {
+padding-bottom: 15px;
+}
+
+#top h2 {
+  color: #77a466;
+  text-transform: uppercase;
+}
+
+#top img #top-image {
+  border-top: 5px solid #77a466;
+  border-bottom: 5px solid #77a466;
+}
+
+#bottom {
+border-top: 1px solid #dedbcd;
+border-bottom: 1px solid #dedbcd;
+/*width: auto;*/
+}
+
+#bottom h5 {
+size: 12px;
+line-height:25px;
+text-transform: uppercase;
+}
+
+#bottom #specials {
+padding-right: 20px;
+width: 379px;
+/*border-right: 1px solid #dedbcd;
+border-top: 1px solid #dedbcd;
+border-bottom: 1px solid #dedbcd;*/
+}
+
+#bottom #hummus, #burrito, #tamales {
+size: 16px;
+line-height: 18px;
+color: #77a466;
+}
+
+#bottom #reviews {
+size: 16px;
+line-height: 21px;
+padding: 0 26px;
+width: 347px;
+border-right: 1px solid #dedbcd;
+border-left: 1px solid #dedbcd;
+/*border-top: 1px solid #dedbcd;
+border-bottom: 1px solid #dedbcd;*/
+}
+
+#bottom #contact {
+size: 16px;
+line-height: 24px;
+padding: 0 30px;
+width: 340px;
+/*border-top: 1px solid #dedbcd;
+border-bottom: 1px solid #dedbcd;*/
+}
+
+
+ /****** FOOTER ******/
+
+footer {
+padding-top: 10px;
+}
+footer h4 {
+text-align: center;
+text-transform: uppercase;
+size: 16px;
+line-height: 24px;
+}
+
+footer h4 span {
+font-family: 'Galada', cursive;
+size: 16px;
+line-height: 23px;
+color: #77a466;
+text-transform: lowercase;
+}
